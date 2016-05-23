@@ -146,7 +146,7 @@ class RSA_Handler {
 
 		// emulate bcpowmod
 		$result = '1';
-		do {
+			do {
 			if (!bccomp(bcmod($pow, '2'), '1')) {
 				$result = bcmod(bcmul($result, $num), $mod);
 			}

@@ -66,7 +66,7 @@
 	            <div class="row">
 	                <div class="col-sm-12 msf-form">
 	                    
-	                    <form role="form" action="mRSA.php" method="post" class="form-inline">
+	                    <form role="form" action="rsa.php" method="post" class="form-inline">
 	                    	<fieldset>
 	            				<h4>Isikan Biodata Anda<span class="step"> (Step 1 / 2)</span></h4>
 	            				<div class="form-group">
